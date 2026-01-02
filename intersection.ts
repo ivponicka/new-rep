@@ -197,4 +197,8 @@ namespace MyNameSpace {
 // ES MODULES
 // import {sth} from ".../base-component.js" -- .js file extension is important if we don't webpack
 // import * as Validation from.. -> group import. ! -> in the file which we export we need to add Validation.sth
-// export default -> the whole (1 default export per file) 
+// export default -> the whole (1 default export per file)
+
+// bla bla
+
+// BLAB 2 cos tam cos tam
