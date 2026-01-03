@@ -1,2 +1,4 @@
 #cos tam
 TEST TEST TEST
+
+NOWE DODANE INFO
